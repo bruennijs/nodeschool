@@ -4,7 +4,8 @@
   "description": "Nodescvhool tutorials",
   "main": "index.js",
   "dependencies": {
-    "git-it": "^1.6.3"
+    "git-it": "^1.6.3",
+    "javascripting": "^1.11.0"
   },
   "devDependencies": {},
   "scripts": {
