@@ -1,8 +1,12 @@
 {
-  "name": "nodeschool tutorial. Conflict change this line on linux machine",
+  "name": "nodeschool",
   "version": "1.0.0",
-  "description": "This is a repo learning from node school. To edit things and manipulate.",
+  "description": "Nodescvhool tutorials",
   "main": "index.js",
+  "dependencies": {
+    "git-it": "^1.6.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,12 +14,7 @@
     "type": "git",
     "url": "https://github.com/bruennijs/nodeschool.git"
   },
-  "keywords": [
-    "nodeschool",
-    "node",
-    "git"
-  ],
-  "author": "Oliver Brüntje",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bruennijs/nodeschool/issues"
