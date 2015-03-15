@@ -1,7 +1,7 @@
 {
   "name": "nodeschool",
   "version": "1.0.0",
-  "description": "This is a repo learning from node school",
+  "description": "This is a repo learning from node school. To edit things and manipulate.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
