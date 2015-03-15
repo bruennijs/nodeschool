@@ -1,1 +1,24 @@
-package.json
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "This is a repo learning from node school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bruennijs/nodeschool.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "node",
+    "git"
+  ],
+  "author": "Oliver Brüntje",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruennijs/nodeschool/issues"
+  },
+  "homepage": "https://github.com/bruennijs/nodeschool"
+}
